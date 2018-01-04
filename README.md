@@ -1,3 +1,3 @@
 # git-usage-example
 
-hey sy!
+hey sy! whats up?
